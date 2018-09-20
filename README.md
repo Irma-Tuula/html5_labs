@@ -1,1 +1,1 @@
-# html5_labs
+# Irma Lampinen's html5_specialist labs repository
